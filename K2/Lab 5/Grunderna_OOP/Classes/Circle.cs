@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Grunderna_OOP
+namespace Grunderna_OOP.Classes
 {
     public class Circle
     {

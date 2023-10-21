@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Grunderna_OOP.Classes;
 
-namespace Grunderna_OOP.Classes
+namespace Grunderna_OOP
 {
     class Program
     {

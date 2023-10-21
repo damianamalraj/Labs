@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/Grunderna OOP.csproj",
+      "projectUniqueName": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 5/Grunderna_OOP/Grunderna OOP.csproj",
       "projectName": "Grunderna OOP",
-      "projectPath": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/Grunderna OOP.csproj",
+      "projectPath": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 5/Grunderna_OOP/Grunderna OOP.csproj",
       "packagesPath": "/Users/damianamalraj/.nuget/packages/",
-      "outputPath": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/",
+      "outputPath": "/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 5/Grunderna_OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/damianamalraj/.nuget/NuGet/NuGet.Config"
