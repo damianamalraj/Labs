@@ -1,0 +1,15 @@
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.csproj.AssemblyReference.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.AssemblyInfoInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.AssemblyInfo.cs
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.csproj.CoreCompileInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/bin/Debug/net7.0/Grunderna OOP
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/bin/Debug/net7.0/Grunderna OOP.deps.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/bin/Debug/net7.0/Grunderna OOP.runtimeconfig.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/bin/Debug/net7.0/Grunderna OOP.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/bin/Debug/net7.0/Grunderna OOP.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/refint/Grunderna OOP.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/Grunderna OOP.genruntimeconfig.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/Lab 5/Grunderna_OOP/obj/Debug/net7.0/ref/Grunderna OOP.dll

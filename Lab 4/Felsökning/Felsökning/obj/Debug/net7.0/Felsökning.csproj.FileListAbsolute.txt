@@ -1,0 +1,15 @@
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.csproj.AssemblyReference.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.AssemblyInfoInputs.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.AssemblyInfo.cs
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.csproj.CoreCompileInputs.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/bin/Debug/net7.0/Felsökning
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/bin/Debug/net7.0/Felsökning.deps.json
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/bin/Debug/net7.0/Felsökning.runtimeconfig.json
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/bin/Debug/net7.0/Felsökning.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/bin/Debug/net7.0/Felsökning.pdb
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/refint/Felsökning.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.pdb
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/Felsökning.genruntimeconfig.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/Lab 4 – Felsökning/Felsökning/obj/Debug/net7.0/ref/Felsökning.dll
