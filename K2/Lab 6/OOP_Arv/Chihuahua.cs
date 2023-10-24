@@ -7,11 +7,15 @@ namespace OOP_Arv
 {
     public class Chihuahua : Dog
     {
-        public int crazyLevel { get; set; } = 90;
+        public int CrazyLevel { get; set; }
+        public Chihuahua(int crazyLevel = 90)
+        {
+            CrazyLevel = crazyLevel;
+        }
 
         public void printCrazyLevel()
         {
-            Console.WriteLine($"Crazy Level {crazyLevel}%");
+            Console.WriteLine($"Crazy Level {CrazyLevel}%");
         }
     }
 }

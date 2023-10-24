@@ -8,7 +8,6 @@ namespace OOP_Arv
     public class Otter : Animal
     {
         public string Sound { get; set; }
-
         public Otter(string sound = "Ehehehehehe")
         {
             Sound = sound;
