@@ -1,0 +1,15 @@
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/bin/Debug/net7.0/OOP_Arv
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/bin/Debug/net7.0/OOP_Arv.deps.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/bin/Debug/net7.0/OOP_Arv.runtimeconfig.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/bin/Debug/net7.0/OOP_Arv.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/bin/Debug/net7.0/OOP_Arv.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.csproj.AssemblyReference.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.AssemblyInfoInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.AssemblyInfo.cs
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.csproj.CoreCompileInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/refint/OOP_Arv.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/OOP_Arv.genruntimeconfig.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 6/OOP_Arv/obj/Debug/net7.0/ref/OOP_Arv.dll
