@@ -1,0 +1,15 @@
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/bin/Debug/net7.0/OOP_Polymorphism
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/bin/Debug/net7.0/OOP_Polymorphism.deps.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/bin/Debug/net7.0/OOP_Polymorphism.runtimeconfig.json
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/bin/Debug/net7.0/OOP_Polymorphism.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/bin/Debug/net7.0/OOP_Polymorphism.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.csproj.AssemblyReference.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.AssemblyInfoInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.AssemblyInfo.cs
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.csproj.CoreCompileInputs.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/refint/OOP_Polymorphism.dll
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.pdb
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/OOP_Polymorphism.genruntimeconfig.cache
+/Users/damianamalraj/Documents/CHAS/2. Programmering med C# och .NET/Labs/K2/Lab 7/OOP_Polymorphism/obj/Debug/net7.0/ref/OOP_Polymorphism.dll
