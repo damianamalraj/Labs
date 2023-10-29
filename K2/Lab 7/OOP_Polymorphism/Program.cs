@@ -14,7 +14,7 @@ namespace OOP_Polymorphism
             Geometri fyrkant = new Fyrkant(5);
             Geometri rektangel = new Rektangel(5, 10);
             Geometri ellips = new Ellips(5, 7);
-            Geometri parallellogram = new Parallellogram(5, 5);
+            Geometri parallellogram = new Parallellogram(5, 7);
 
             Console.WriteLine($"Area Cirkel: {cirkel.Area()}");
             Console.WriteLine($"Area Fyrkant: {fyrkant.Area()}");
