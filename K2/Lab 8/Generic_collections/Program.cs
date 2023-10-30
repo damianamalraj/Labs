@@ -16,6 +16,8 @@ namespace Generic_collections
             Employee employee4 = new Employee(104, "Susanne Doe", "Female", 30000);
             Employee employee5 = new Employee(105, "Mark Doe", "Male", 30000);
 
+            // Del 1
+            Console.WriteLine("Del 1");
             Stack<Employee> employeesStack = new Stack<Employee>();
             void pushAllEmployeesIntoAStack()
             {
@@ -25,8 +27,8 @@ namespace Generic_collections
                 employeesStack.Push(employee4);
                 employeesStack.Push(employee5);
             }
-            pushAllEmployeesIntoAStack();
 
+            pushAllEmployeesIntoAStack();
             foreach (var item in employeesStack)
             {
                 Console.WriteLine($"{item.Id} - {item.Name} - {item.Gender} - {item.Salary}");
@@ -47,9 +49,8 @@ namespace Generic_collections
                 Console.WriteLine($"{employee.Id} - {employee.Name} - {employee.Gender} - {employee.Salary}");
                 Console.WriteLine($"Items left in the Stack = {employeesStack.Count}");
             }
-            Console.WriteLine("-----------------------------");
-
             pushAllEmployeesIntoAStack();
+            Console.WriteLine("-----------------------------");
 
             Console.WriteLine("Retrive Using Peek Method");
             for (int i = 0; i < 2; i++)
@@ -64,7 +65,46 @@ namespace Generic_collections
             {
                 Console.WriteLine("employee3 is in Stack");
             }
+            Console.WriteLine("-----------------------------");
 
+            // Del 2
+            Console.WriteLine("\n\nDel 2");
+            List<Employee> employeesList = new List<Employee>();
+
+            employeesList.Add(employee1);
+            employeesList.Add(employee2);
+            employeesList.Add(employee3);
+            employeesList.Add(employee4);
+            employeesList.Add(employee5);
+
+            if (employeesList.Contains(employee2))
+            {
+                Console.WriteLine("employee2 object exists in the list");
+            }
+            else
+            {
+                Console.WriteLine("employee2 object does not exist in the list");
+            }
+
+            Employee? foundEmployee;
+            void findEmployee()
+            {
+                foundEmployee = employeesList.Find(employee => employee.Gender == "Male");
+            };
+            findEmployee();
+            Console.WriteLine($"\nID = {foundEmployee?.Id}, Name = {foundEmployee?.Name}, Gender = {foundEmployee?.Gender}, Salary = {foundEmployee?.Salary}\n");
+
+            List<Employee> foundAllEmployee;
+            void findAllEmployee()
+            {
+                foundAllEmployee = employeesList.FindAll(employee => employee.Gender == "Male");
+            };
+            findAllEmployee();
+
+            foreach (var item in foundAllEmployee)
+            {
+                Console.WriteLine($"ID = {item?.Id}, Name = {item?.Name}, Gender = {item?.Gender}, Salary = {item?.Salary}");
+            }
         }
     }
 }
