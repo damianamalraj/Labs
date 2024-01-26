@@ -23,6 +23,12 @@ class Program
 
       Console.Write("Ange ditt val: ");
       string userInput = Console.ReadLine();
+      Console.WriteLine("7. Lägga till nya elever");
+      Console.WriteLine("0. Avsluta programmet");
+
+      Console.Write("Ange ditt val: ");
+		      string userInput = Console.ReadLine();
+
 
       switch (userInput)
       {
