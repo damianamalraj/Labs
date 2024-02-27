@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Portfolio</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li>
+          <a href="portfolio.html" style="background-color: #e2e2e2"
+            >Portfolio</a
+          >
+        </li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <div class="projects">
+        <div>
+          <h2>Chessboard</h2>
+          <p class="cut-text">
+            This C# console application generates a pattern of alternating
+            squares. It prompts the user for input, then creates a visual...
+          </p>
+          <label for="modal-toggle" class="info-button">More information</label>
+          <input type="checkbox" id="modal-toggle" class="modal-toggle" />
+          <div id="modal" class="modal">
+            <div class="modal-content">
+              <h2>More information</h2>
+              <p>
+                This C# console application generates a pattern of alternating
+                squares. It prompts the user for input, then creates a visual
+                pattern based on the entered number. Currently static, future
+                plans may involve adding interactivity or additional features.
+                Enjoy exploring the pattern!
+              </p>
+              <button>
+                <a
+                  href="https://github.com/damianamalraj/ChessBoard/blob/main/ChessBoard/Program.cs"
+                  target="_blank"
+                  >GitHub Link</a
+                >
+              </button>
+              <label for="modal-toggle" class="close-button">Close</label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <h2>Numbers Game</h2>
+          <p>
+            This is a simple C# console game where you have to guess a number
+            between 1 and 20. You get five tries. If you guess right, you...
+          </p>
+
+          <label for="modal-toggle2" class="info-button"
+            >More information</label
+          >
+          <input type="checkbox" id="modal-toggle2" class="modal-toggle2" />
+          <div id="modal" class="modal2">
+            <div class="modal-content">
+              <h2>More information</h2>
+              <p>
+                This is a simple C# console game where you have to guess a
+                number between 1 and 20. You get five tries. If you guess right,
+                you win! I might add more features later. Have fun playing!
+              </p>
+              <button>
+                <a
+                  href="https://github.com/damianamalraj/NumbersGame"
+                  target="_blank"
+                  >GitHub Link</a
+                >
+              </button>
+              <label for="modal-toggle2" class="close-button">Close</label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <h2>Internet Bank</h2>
+          <p>
+            This C# console application simulates a bank login system. Users are
+            prompted to enter their credentials, with a maximum of...
+          </p>
+
+          <label for="modal-toggle3" class="info-button"
+            >More information</label
+          >
+          <input type="checkbox" id="modal-toggle3" class="modal-toggle3" />
+          <div id="modal" class="modal3">
+            <div class="modal-content">
+              <h2>More information</h2>
+              <p>
+                This C# console application simulates a bank login system. Users
+                are prompted to enter their credentials, with a maximum of three
+                failed attempts before a timeout period. The admin has specific
+                access, while regular users have their own functionalities.
+                Currently static, future plans may include adding more features
+                and interactivity. Enjoy exploring the banking system!
+              </p>
+              <button>
+                <a
+                  href="https://github.com/damianamalraj/InternetBank"
+                  target="_blank"
+                  >GitHub Link</a
+                >
+              </button>
+              <label for="modal-toggle3" class="close-button">Close</label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <h2>Minimal API</h2>
+          <p>
+            This is a basic ASP.NET Core API project for managing person-related
+            data. It provides endpoints for retrieving and adding persons...
+          </p>
+
+          <label for="modal-toggle4" class="info-button"
+            >More information</label
+          >
+          <input type="checkbox" id="modal-toggle4" class="modal-toggle4" />
+          <div id="modal" class="modal4">
+            <div class="modal-content">
+              <h2>More information</h2>
+              <p>
+                This is a basic ASP.NET Core API project for managing
+                person-related data. It provides endpoints for retrieving and
+                adding persons, their interests, and links. The project utilizes
+                Entity Framework Core for database operations and is set up to
+                connect to a SQL Server database. Future plans may include
+                adding more features and interactivity. Enjoy exploring!
+              </p>
+              <button>
+                <a
+                  href="https://github.com/damianamalraj/Minimal-API"
+                  target="_blank"
+                  >GitHub Link</a
+                >
+              </button>
+              <label for="modal-toggle4" class="close-button">Close</label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <h2>Music API</h2>
+          <p>
+            This ASP.NET Core API project is the backbone for managing users and
+            their connections to songs, genres, and artists. It's powered...
+          </p>
+
+          <label for="modal-toggle5" class="info-button"
+            >More information</label
+          >
+          <input type="checkbox" id="modal-toggle5" class="modal-toggle5" />
+          <div id="modal" class="modal5">
+            <div class="modal-content">
+              <h2>More information</h2>
+              <p>
+                This ASP.NET Core API project is the backbone for managing users
+                and their connections to songs, genres, and artists. It's
+                powered by Entity Framework Core and SQL Server. Stay tuned for
+                updates as we enhance its functionality for a more dynamic
+                experience!
+              </p>
+              <button>
+                <a
+                  href="https://github.com/damianamalraj/NumbersGame"
+                  target="_blank"
+                  >GitHub Link</a
+                >
+              </button>
+              <label for="modal-toggle5" class="close-button">Close</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
