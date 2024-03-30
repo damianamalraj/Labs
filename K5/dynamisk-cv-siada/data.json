@@ -1,0 +1,146 @@
+{
+  "info": {
+    "name": "Damian Amalraj",
+    "location": "Stockholm, Sweden",
+    "phone": "+46 73 262 01 00",
+    "email": "damian.amalraj@hotmail.com",
+    "linkedin": "linkedin.com/in/damianamalraj",
+    "github": "github.com/damianamalraj",
+    "website": "damianamalraj.vercel.app"
+  },
+
+  "experiences": [
+    {
+      "company": "Redmind",
+      "location": "Stockholm, Sweden",
+      "position": "Frontend-utvecklare (Praktik)",
+      "startDate": "Aug 2022",
+      "endDate": "May 2023",
+      "responsibilities": [
+        "Samarbetade nära med seniora utvecklare och designers för att förbättra Feelgood-appen.",
+        "Använde React Native och Typescript för att fixa buggar och implementera nya funktioner.",
+        "Förbättrade appens befintliga logik och optimerade/refaktorerade gammal redundanta kod.",
+        "Utvecklade och implementerade ett användarupplevelserapporteringssystem."
+      ]
+    },
+    {
+      "company": "DisplaydWeb",
+      "location": "Stockholm, Sweden",
+      "position": "Webbutvecklare",
+      "startDate": "Apr 2022",
+      "endDate": "Jun 2022",
+      "responsibilities": [
+        "Spelade en avgörande roll i att implementera webbdesigner med hjälp av ElementorPro.",
+        "Utvecklade och implementerade Content Management System (CMS) med hjälp av ElementorPro och WordPress."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Chas Academy",
+      "location": "Stockholm, Sweden",
+      "degree": ".NET Utvecklare - Full-stack Utveckling",
+      "startDate": "Aug 2023",
+      "endDate": "May 2025"
+    },
+    {
+      "school": "IT-Högskolan",
+      "location": "Stockholm, Sweden",
+      "degree": "JavaScript Utvecklare - Full-stack Utveckling",
+      "startDate": "Aug 2021",
+      "endDate": "May 2023"
+    },
+    {
+      "school": "Thorildsplans gymnasium",
+      "location": "Stockholm, Sweden",
+      "degree": "Dator- och kommunikationsteknik - Gymnasieexamen",
+      "startDate": "Aug 2017",
+      "endDate": "May 2020"
+    }
+  ],
+
+  "skills": [
+    "HTML",
+    "CSS/SASS",
+    "JavaScript",
+    "TypeScript",
+    "C#",
+    "Python",
+    "SQL",
+
+    "React",
+    "Next.js",
+    "Vue.js",
+    "Angular",
+    "React Native",
+    "Redux",
+    "Tailwind",
+
+    ".NET",
+    "Node.js",
+    "FastApi",
+    "Nest.js",
+    "Express",
+
+    "MongoDB",
+    "PostgreSQL",
+
+    "Jest (TDD)",
+    "Cypress",
+
+    "Bash",
+    "Docker",
+    "GitHub Actions CI/CD",
+
+    "Azure",
+
+    "Scrum",
+    "Kanban",
+
+    "Git"
+  ],
+
+  "projects": [
+    {
+      "title": "Chessboard",
+      "imageSrc": "dotnet.png",
+      "altText": "Chessboard",
+      "summary": "This C# console application generates a pattern of alternating squares. It prompts the user for input, then creates a visual...",
+      "detailedInfo": "This C# console application generates a pattern of alternating squares. It prompts the user for input, then creates a visual pattern based on the entered number. Currently static, future plans may involve adding interactivity or additional features. Enjoy exploring the pattern!",
+      "githubLink": "https://github.com/damianamalraj/ChessBoard/blob/main/ChessBoard/Program.cs"
+    },
+    {
+      "title": "Numbers Game",
+      "imageSrc": "dotnet.png",
+      "altText": "Numbers Game",
+      "summary": "This is a simple C# console game where you have to guess a number between 1 and 20. You get five tries. If you guess right, you...",
+      "detailedInfo": "This is a simple C# console game where you have to guess a number between 1 and 20. You get five tries. If you guess right, you win! I might add more features later. Have fun playing!",
+      "githubLink": "https://github.com/damianamalraj/NumbersGame"
+    },
+    {
+      "title": "Internet Bank",
+      "imageSrc": "dotnet.png",
+      "altText": "Internet Bank",
+      "summary": "This C# console application generates a pattern of alternating squares. It prompts the user for input, then creates a visual...",
+      "detailedInfo": "This C# console application simulates a bank login system. Users are prompted to enter their credentials, with a maximum of three failed attempts before a timeout period. The admin has specific access, while regular users have their own functionalities. Currently static, future plans may include adding more features and interactivity. Enjoy exploring the banking system!",
+      "githubLink": "https://github.com/damianamalraj/InternetBank"
+    },
+    {
+      "title": "Minimal API",
+      "imageSrc": "restful-api.png",
+      "altText": "Minimal API",
+      "summary": "This is a basic ASP.NET Core API project for managing person-related data. It provides endpoints for retrieving and adding persons...",
+      "detailedInfo": "This is a basic ASP.NET Core API project for managing person-related data. It provides endpoints for retrieving and adding persons, their interests, and links. The project utilizes Entity Framework Core for database operations and is set up to connect to a SQL Server database. Future plans may include adding more features and interactivity. Enjoy exploring!",
+      "githubLink": "https://github.com/damianamalraj/Minimal-API"
+    },
+    {
+      "title": "Music API",
+      "imageSrc": "restful-api.png",
+      "altText": "Music API",
+      "summary": "This ASP.NET Core API project is the backbone for managing users and their connections to songs, genres, and artists. It's powered...",
+      "detailedInfo": "This ASP.NET Core API project is the backbone for managing users and their connections to songs, genres, and artists. It's powered by Entity Framework Core and SQL Server. Stay tuned for updates as we enhance its functionality for a more dynamic experience!",
+      "githubLink": "https://github.com/damianamalraj/music-interest-tracker"
+    }
+  ]
+}
