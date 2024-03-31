@@ -1,8 +1,10 @@
-import React from 'react';
-import data from '../../data.json';
+import React, { useState } from 'react';
+import jsonData from '../../data.json';
 import './Resume.css';
 
 export default function Resume() {
+  const [data] = useState(jsonData);
+
   return (
     <>
       <div className="spacer"></div>
